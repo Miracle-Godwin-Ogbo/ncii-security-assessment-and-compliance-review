@@ -158,7 +158,7 @@ This project includes:
 
 📄 Download the complete report below:
 
-[NCII Security Assessment Report](NetworkShield_NCII_Security_Assessment_Report.pdf)
+[NCII Security Assessment Report](./NetworkShield_NCII_Security_Assessment_Report.pdf)
 
 ---
 
