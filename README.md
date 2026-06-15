@@ -18,7 +18,10 @@ The assessment was performed using publicly available information, passive recon
 
 **Team:** NetworkShield Security Team
 
-**Author:** Miracle Godwin Ogbo
+**Contributors:**
+- Miracle Godwin Ogbo
+- Jessy Bievenue
+- Emmanuel Olofu
 
 **Date:** June 2026
 
